@@ -13,7 +13,7 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-4.4-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
 
-![EcoTrack Dashboard](docs/home screen.png)
+![EcoTrack Dashboard](docs/home-screen.png)
 
 </div>
 
